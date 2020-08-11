@@ -29,4 +29,6 @@ windows 10 + Qt 5.14.2 + MSVC 2017 + fftw 64bit
 
 - 腐蚀、膨胀、开运算、闭运算等多种形态学运算的具体功能实现。
   &nbsp;
-  !["morphological"](./pic/morphological.png  )
+  !["morphological"](./pic/morphological.png )
+
+最后的生成的软件在[这里](./exec/dip_zxc.exe )。
