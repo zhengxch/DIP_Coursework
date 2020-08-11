@@ -23,7 +23,7 @@ windows 10 + Qt 5.14.2 + MSVC 2017 + fftw 64bit
   - 添加了形态学运算的操作显示接口，实现多语言支持（中英）。
   &nbsp;
   <div  align="center">    
-    <img src="./pic/ui_plus.png" width = "320" height = "350" alt="图片名称" align=center />
+    <img src="./pic/ui_plus.png" alt="ui_plus" align=center />
   </div>
 
 
